@@ -20,7 +20,7 @@ domain = "docker.localhost"
 watch = true
 exposedbydefault = false
 [acme]
-email = "mail@example.com"
+email = "farvashani@gmai.com"
 storage = "acme.json"
 entryPoint = "https"
 OnHostRule = true
